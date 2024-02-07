@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/end.png</file>
+        <file>images/rabbit_nor.png</file>
+        <file>images/icon.png</file>
+        <file>images/cover1.png</file>
+        <file>images/flag1.png</file>
+        <file>images/interrogation1_1.png</file>
+        <file>images/mine1.png</file>
+        <file>images/gradual_1.png</file>
+        <file>images/mine1-0.png</file>
+        <file>images/mine1-1.png</file>
+        <file>images/mine1-2.png</file>
+        <file>images/mine1-3.png</file>
+        <file>images/mine1-4.png</file>
+        <file>images/mine1-5.png</file>
+        <file>images/mine1-6.png</file>
+        <file>images/mine1-7.png</file>
+        <file>images/mine1-8.png</file>
+    </qresource>
+</RCC>
